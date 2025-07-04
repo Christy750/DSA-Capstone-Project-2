@@ -1,4 +1,4 @@
-# DSA-Capstone-Project-2
+# DSA-Capstone-Project-KMS
 # 🛒 Kultra Mega Store - SQL Data Analysis Project
 
 This project contains data analysis performed using **SQL** on the sales and operations data of **Kultra Mega Store**. The objective is to extract actionable business insights from customer, sales, and inventory data using structured queries and reporting techniques.
